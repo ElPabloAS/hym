@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<ropa>
+
+
+<prenda nombre="Camisas">
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/48/14/4814dcc45c22dd6796b95f3e95956a051b897cd2.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa en mezcla de lino Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/9c/9f/9c9fe09ff2a46a2707bf480f6b144f14c860be30.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort de encaje Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/2b/df/2bdf50ef21a4f58e0eee06fbef70ffdf77a3b548.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort en tejido texturizado Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/68/56/685647ff828817ca1f03450fbf80b1389470cd45.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Sobrecamisa de sarga Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/93/fa/93fa5bd741c0192a04cdb3f0fd137d3e53a44f26.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa boxy</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/30/4f/304fe0ee727aad10fd39bb78acc90f3ec4c10887.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa de manga corta Relaxed Fit</nombre>
+    <precio>15,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/14/e0/14e0d5383789b2bd70da3c8e38867720c6e8b0f1.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort en punto con textura Loose Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d9/45/d94565ebe4b4446243af3c4d99f5ce638aac88c4.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort en punto con textura Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/2f/1c/2f1cb4564d1c90ff49d0d0078f00a52a7f38e6db.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa Oxford Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d9/1f/d91f622be912eed38f8f471d03a9e43ca5e94781.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort en muselina Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/92/e8/92e82477d5274e993a598656ab830b198d177098.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa Oxford Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d1/51/d1516d6debb7cb3d7c5e78dcf66a8122a6626f4d.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa en mezcla de lino Relaxed Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/93/d4/93d4d245c6a95174f7dbf6d58d664048341c796f.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa resort en punto con textura Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/63/75/63757ef8c39ccc6f1695c2a35db8c87a89468424.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa Easy-iron Slim Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/ed/a8/eda809c2f90c34e2a2f791f737c032c759e8b8d7.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa Oxford Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/54/ce/54ce60dfff31772256e23c6b6f994848b4217462.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa mao Muscle Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/32/da/32da4e0588009698e720169efb4293d3f5a1b25e.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa Oxford Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/be/fc/befc6131511acfa99dff69edf72721defe98e3a2.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa mao Muscle Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/f1/f9/f1f90fd0ec42b7a21245cae2f064024d45c37d6d.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa de fácil planchado Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/c7/e7/c7e7caf802f80b5c7ea1958bf47a4d4f0ee43ccb.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Camisa en mezcla de lino Regular Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  
+  
+</prenda>
+
+
+<prenda nombre="Pantalones">
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/77/6f/776fd21ab0fd4c949b26b1e496690581a210f689.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón en mezcla de lino Regular Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/49/e9/49e94e1ddbbe9ac659c9395c7677743ca87454fb.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón Slim Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/c5/08/c508a21c9d2fa878451ea358726b47b83ef2b0f8.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón sastre en mezcla de lino Slim Fit</nombre>
+    <precio>37,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d4/44/d444886a36ca0e6a5e4f1e9b15bac68977286c7f.jpg],origin[dam],category[],type[LOOKBOOK],res[w],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers de sarga Loose Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/53/11/5311f5b0a9fd39570900cee91a28f3bd16521716.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón worker de lona</nombre>
+    <precio>79,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/a2/f9/a2f96baf354c19b4f0b319f398adc8937bbc1090.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón de chándal</nombre>
+    <precio>49,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/a9/dd/a9ddf8b1bda3df9038a13a5e2254bf21b0a40533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón cargo Loose Fit</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/f1/5b/f15bcd1426591748e1ed2417158b770998121c3c.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo</nombre>
+    <precio>34,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/90/7e/907efa77779aac0fcade636dc56989699bd5aac0.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo</nombre>
+    <precio>34,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/e3/36/e3366e81bc36f3b341c0771ef4905ffdeaf7844f.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo de nailon Slim Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/53/70/53703d5e72b4a6b4316b71308574003054a9e711.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo</nombre>
+    <precio>34,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/60/54/60542e9fe47ea1638418354d858dd356212fa781.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo</nombre>
+    <precio>34,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/00/bf/00bf55b049672c0ebcb6a9681dca34db1f96848d.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón de chándal Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/21/ac/21acd2dd3ca5e12b10b4b7aca9a8529a64e7890a.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Chinos de algodón Slim Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/c6/af/c6af35fa3e1d3e1e83117c39588e7e0beb0c86dc.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo de nailon Slim Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/e3/f2/e3f221933f379129239811fa4ca45e9f68fa94c1.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Chinos de algodón Slim Fit</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/ff/18/ff18072b77749c3bf3b0c72ca103a603f9289f7a.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón en sarga de algodón Slim Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d5/05/d505bc2ef84954802a9b700d750c02b6e9f26d89.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Pantalón en sarga de algodón Slim Fit</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/5b/bd/5bbd9cb30b929c752337519947d4efcad43e5b7c.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers de lyocell Regular Fit</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/68/d7/68d7fdfb5ea96d03d226be1f688c023076a29ef1.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&amp;call=url[file:/product/main]</foto>
+    <nombre>Joggers cargo</nombre>
+    <precio>34,99 €</precio>
+  </articulo>
+  
+</prenda>
+
+
+<prenda nombre="Zapatos">
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/6f/f0/6ff04869863d57d10f613ace3047dde7737c1409.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatos de conducción en ante sintético</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/70/d2/70d282301cb2220e95513744a2d634c2dee3246f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Mocasines estilo mule</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/37/1d/371deb34cd01ab272713624101879d022ac1517d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Mocasines deportivos</nombre>
+    <precio>37,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/40/96/4096c308a5197078414b011297492fce1e116ff4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/cf/56/cf5687a4bfd58618b7d266f9786eca43c3764a7b.jpg],origin[dam],category[men_shoes_sneakers],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Sandalias de piel</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/09/20/09200b5879be423b8a4f83b5c370d9b01ddeebc5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/b5/49/b54923a4d599db85032e2246025c0227b23f1959.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas de lona</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/f6/13/f6137e659d887e116bfe42032eb2eaff26ca0c65.jpg],origin[dam],category[men_shoes_dressed],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatos náuticos con suela gruesa</nombre>
+    <precio>49,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/da/13/da13f1f94371e05bf2295444cba353a58213b2ab.jpg],origin[dam],category[men_shoes_sneakers],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/92/ed/92ed27f59cb9b88918c7e169039f01f1b233f936.jpg],origin[dam],category[men_shoes_sneakers],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas sin cierre</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/8c/bb/8cbb18ef78a6891f730f1e7aeffe95853a688504.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatos Derby</nombre>
+    <precio>39,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/d3/59/d359fe50a7f3b37adb821dce7e060a54f72ed7c2.jpg],origin[dam],category[men_shoes],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Mocasines</nombre>
+    <precio>49,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/b8/0a/b80ab47e92c1701b2e49852e1dff7dcb52c492bc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/e5/85/e58572972dd222e87972b9eb6b8ec308f95b7ffc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Mocasines</nombre>
+    <precio>49,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/c8/d4/c8d4568036ff11062b9e1f11fb2d2ecf5e099781.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[4]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/e3/7b/e37b6f997737242a2e1cf3fa6807b403839d14de.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Botas de senderismo</nombre>
+    <precio>69,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/1e/43/1e43c5a94465e43c1566321ed5dd87266ae09bde.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>25,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/b9/bc/b9bc753a16bfd7f7b2f3bab88d91d584eef1c33d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas de casa con forro de borreguito</nombre>
+    <precio>19,99 €</precio>
+  </articulo>
+  <articulo>
+    <foto>https://lp2.hm.com/hmgoepprod?set=source[/15/d3/15d3714f94af70bb1077a87ba7f3fbb87edf389b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[w],hmver[2]&amp;call=url[file:/product/main]</foto>
+    <nombre>Zapatillas deportivas</nombre>
+    <precio>29,99 €</precio>
+  </articulo>
+  
+</prenda>
+
+</ropa>
